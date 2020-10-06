@@ -23,7 +23,7 @@ This is a table component for react native.
 <br/><br/>
 
 ## Installation
-> npm install react-native-table-component
+> npm install bloodymonkey/react-native-table-component
 
 `USE:`
 ```jsx
