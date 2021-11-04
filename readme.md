@@ -2,7 +2,7 @@
   <img src="https://github.com/Gil2015/tools_file/blob/master/img/react-native-table-component/react-native-table-component-logo.png?raw=true" width="170" />
 </p>
 
-<h1 align="center">React Native Table Component</h1>
+<h1 align="center">React Native Table Component Web</h1>
 
 <p align="center">
   <a href="https://www.npmjs.com/package/react-native-table-component"><img src="https://badge.fury.io/js/react-native-table-component.svg" /></a>
